@@ -1,0 +1,36 @@
+GIT.........
+   -VCS- Version Control System
+
+GitHUB:
+   -Its an example of remote repository hosting service
+      -examples: Bitbucket, Gitlab, Perforce,Beanstalk, AWS codecommit etc
+      - its free and open source thats why everyone will use mostly
+1. Remote Repository
+  - Repo its an project folder
+  - Remote means its somewhere over the internet
+GitHUB:
+   -Its an example of remote repository hosting service
+      - examples: Bitbucket, Gitlab, Perforce,Beanstalk, AWS codecommit etc
+      - its free and open source thats why everyone will use mostly
+2 Local Repository:
+      - 
+      - 
+
+
+
+
+3. Staging Area
+
+
+
+4. Working Directory
+   - The files which are not comes under tracking in git called Working directory files(simply files which are not added to git)
+   
+
+
+
+snapshot for code commands
+  -working to staging(git add . or Git add filename.txt)
+  -staging to Local Repo(git commit)
+  - Local Repo tp Remote Repo(git push)
+
