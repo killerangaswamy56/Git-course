@@ -34,3 +34,11 @@ snapshot for code commands
   -staging to Local Repo(git commit)
   - Local Repo tp Remote Repo(git push)
 
+.Gitignore file:
+   -
+
+Branches:
+  - Main/Master
+  - here we used to deploy and re-deploy the code of our project
+  - PR-Pull Request
+  - branches are the copies of the Main/master branch to 

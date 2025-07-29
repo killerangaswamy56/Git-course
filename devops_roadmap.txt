@@ -1,0 +1,11 @@
+1. SDLC models
+2. Jenkins
+3. Docker
+4. Linux
+5. GIt and GitHUB
+6. Kubernetes
+7. Cloud computing(AWS)
+8. Shell Scripting
+9. SQL and Web
+10. Ansible
+11. Terraform
